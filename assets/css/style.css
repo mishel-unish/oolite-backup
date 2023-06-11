@@ -1,0 +1,8 @@
+.navbar-logo {
+	height: 60px;
+}
+#navbarSupportedContent {
+	flex-grow: unset;
+}
+
+#oxp-category {}
